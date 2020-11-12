@@ -21,3 +21,6 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+#Spotify.js
+const clientId = "eb5cea1a3ec64796902f76d501156123";
